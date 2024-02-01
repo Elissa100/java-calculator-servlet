@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+.operation{
+	align-items:center;
+}
+
+.op{
+	width:200px;
+	height:3vh;
+}
